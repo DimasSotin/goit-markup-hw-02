@@ -89,7 +89,7 @@ li {
   color: var(--accent-color);
 }
 .hero-btn:hover,
-.hero-btn:focus::after {
+.hero-btn:focus {
   background-color: var(--main-hover-color);
 }
 /*--------------------- features-------------- */
