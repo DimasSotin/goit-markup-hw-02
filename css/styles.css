@@ -35,8 +35,8 @@ li {
   color: var(--primary-color);
 }
 
-.nav-list a:hover,
-.nav-list a:focus {
+.list a:hover,
+.list a:focus {
   color: var(--main-hover-color);
 }
 .list-item.current {
