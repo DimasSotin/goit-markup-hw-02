@@ -19,7 +19,6 @@ li {
 /*--------------------- header-------------- */
 .logo {
   font-family: 'Raleway', sans-serif;
-  font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -30,7 +29,6 @@ li {
 }
 .list-item {
   font-family: 'Roboto', sans-serif;
-  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -47,7 +45,6 @@ li {
 .head-mail,
 .head-phone {
   font-family: 'Roboto', sans-serif;
-  font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
@@ -71,7 +68,6 @@ li {
 }
 .hero-title {
   font-family: 'Roboto', sans-serif;
-  font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
   letter-spacing: 0.06em;
@@ -80,13 +76,13 @@ li {
 }
 .hero-btn {
   font-family: 'Roboto';
-  font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
   text-align: center;
   letter-spacing: 0.06em;
   background-color: var(--main-hover-color);
   color: var(--accent-color);
+  cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus {
@@ -107,7 +103,6 @@ li {
 }
 .features-title {
   font-family: 'Roboto';
-  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
@@ -116,7 +111,6 @@ li {
 }
 .text {
   font-family: 'Roboto';
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -125,7 +119,6 @@ li {
 /*--------------------- what we do-------------- */
 .work-title {
   font-family: 'Roboto';
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.03em;
@@ -136,7 +129,6 @@ li {
 
 .team-title {
   font-family: 'Roboto';
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.03em;
@@ -144,7 +136,6 @@ li {
 }
 .name {
   font-family: 'Roboto';
-  font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
@@ -152,7 +143,6 @@ li {
 }
 .profession {
   font-family: 'Roboto';
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
@@ -167,7 +157,6 @@ li {
 }
 .map {
   font-family: 'Roboto';
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -176,7 +165,6 @@ li {
 .foot-mail,
 .foot-phone {
   font-family: 'Roboto';
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -186,15 +174,12 @@ li {
 
 /* -----------------------------services---------------------- */
 
-.services {
-  background-color: #2f303a;
-}
 .serv-btn {
   font-family: 'Roboto';
-  font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
   letter-spacing: 0.03em;
+  cursor: pointer;
   color: var(--primary-colo);
 }
 .serv-btn:hover,
@@ -206,7 +191,6 @@ li {
 /* ---------------------pages------------------ */
 .page-title {
   font-family: 'Roboto';
-  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
@@ -214,7 +198,6 @@ li {
 }
 .options {
   font-family: 'Roboto';
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
