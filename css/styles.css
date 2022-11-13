@@ -75,7 +75,7 @@ li {
   color: var(--accent-color);
 }
 .hero-btn {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 16px;
   line-height: 1.87;
   text-align: center;
@@ -102,7 +102,7 @@ li {
   overflow: hidden;
 }
 .features-title {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
@@ -110,7 +110,7 @@ li {
   color: var(--primary-color);
 }
 .text {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -118,7 +118,7 @@ li {
 }
 /*--------------------- what we do-------------- */
 .work-title {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.03em;
@@ -128,21 +128,21 @@ li {
 /*--------------------- our team-------------- */
 
 .team-title {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.03em;
   color: var(--primary-color);
 }
 .name {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
   color: var(--primary-color);
 }
 .profession {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
@@ -156,7 +156,7 @@ li {
   color: var(--accent-color);
 }
 .map {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -164,7 +164,7 @@ li {
 }
 .foot-mail,
 .foot-phone {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -175,7 +175,7 @@ li {
 /* -----------------------------services---------------------- */
 
 .serv-btn {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 16px;
   line-height: 1.62;
   letter-spacing: 0.03em;
@@ -190,14 +190,14 @@ li {
 
 /* ---------------------pages------------------ */
 .page-title {
-  font-family: 'Roboto';
+  font-family: 'Roboto',sans-serif;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
   color: var(--primary-color);
 }
 .options {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
